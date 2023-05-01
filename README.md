@@ -1,4 +1,7 @@
 # Image-Encryption-and-Decryption-using-java
+<b><br>
+The Image Encryption and Decryption Project in Java is a software application that aims to provide an efficient and secure way to encrypt and decrypt images. The project involves the development of a Java application that uses symmetric key cryptography to encrypt and decrypt images. The objective of this project is to create a user-friendly software tool that can be used to protect sensitive images from unauthorized access.
+<br>
 1)Initially we can see that image (planet_1.png) is not encrypted and we can see that image is visible and can be accessed by the user.
 <br><br><br>
 <img width="415" alt="image" src="https://user-images.githubusercontent.com/72157667/235483057-944aa209-d68b-4924-8163-2c1470bea771.png">
